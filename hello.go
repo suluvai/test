@@ -1,4 +1,4 @@
-package hello
+package test
 
 import "rsc.io/quote/v3"
 
