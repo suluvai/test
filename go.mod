@@ -1,4 +1,4 @@
-module suluvaitest.com/hello
+module immutable.com/hello
 
 go 1.18
 
