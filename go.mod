@@ -1,4 +1,4 @@
-module immutable.com/hello
+module github.com/suluvai/hello
 
 go 1.18
 
