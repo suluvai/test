@@ -1,6 +1,6 @@
 go 1.18
 
 use (
-	./src
-	./src/gen/subhello
+	./hello
+	./hello/gen/subhello
 )
