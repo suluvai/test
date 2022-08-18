@@ -2,5 +2,5 @@ go 1.18
 
 use (
 	./hello
-	./hello/gen/subhello
+	./subhello
 )

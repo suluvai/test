@@ -1,4 +1,4 @@
-module github.com/suluvai/test/hello/subhello
+module github.com/suluvai/test/subhello
 
 go 1.18
 
