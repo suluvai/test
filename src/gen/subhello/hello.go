@@ -1,11 +1,11 @@
-package test
+package subhello
 
 import "rsc.io/quote/v3"
 
-func Hello() string {
+func Subhello() string {
 	return quote.HelloV3()
 }
 
-func Proverb() string {
+func Subpoverb() string {
 	return quote.Concurrency()
 }

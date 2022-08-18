@@ -1,4 +1,4 @@
-module github.com/suluvai/test
+module github.com/suluvai/test/hello
 
 go 1.18
 
